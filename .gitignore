@@ -132,3 +132,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+speech_llm_audio_encoder.pt
